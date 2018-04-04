@@ -7,6 +7,8 @@ from wtforms.validators import Required
 from flask_sqlalchemy import SQLAlchemy
 from flask_migrate import Migrate, MigrateCommand
 
+# this is my addition to practice branching - fun! :)
+
 ############################
 # Application configurations
 ############################
